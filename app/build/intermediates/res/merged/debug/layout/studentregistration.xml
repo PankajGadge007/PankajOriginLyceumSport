@@ -1,0 +1,296 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:background="@drawable/back"
+    android:padding="10dp"
+    android:fillViewport="false">
+<LinearLayout
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    >
+    <TextView
+        android:id="@+id/text"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="10dp"
+        android:layout_gravity="center"
+        android:text="Student Registration"
+        android:textColor="#111111"
+        android:textSize="20dp"
+        android:textStyle="bold"
+        >
+    </TextView>
+
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:layout_marginTop="20dp"
+        android:weightSum="1">
+        <TextView
+            android:id="@+id/textView"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="10dp"
+            android:layout_marginRight="85dp"
+            android:layout_gravity="center"
+            android:text="Name"
+            android:textSize="16dp"
+            android:textColor="#111111"
+            android:textStyle="bold"
+            >
+        </TextView>
+        <EditText
+            android:layout_width="340dp"
+            android:layout_height="wrap_content"
+            android:hint="Name"
+            android:id="@+id/editTexts"
+            android:layout_gravity="center">
+            <requestFocus />
+        </EditText>
+
+
+            <TextView
+                android:id="@+id/textView1"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="35dp"
+                android:layout_marginRight="65dp"
+                android:layout_gravity="center"
+                android:text="Gender"
+                android:textSize="16dp"
+                android:textColor="#111111"
+                android:textStyle="bold"
+                />
+                <Spinner
+                    android:layout_width="400dp"
+                    android:layout_height="wrap_content"
+                    android:layout_marginLeft="10dp"
+                    android:id="@+id/spinner0"
+                    android:layout_weight="1"
+                    />
+
+    </LinearLayout>
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:layout_marginTop="20dp"
+        >
+        <TextView
+            android:id="@+id/textView2"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="10dp"
+            android:layout_marginRight="40dp"
+            android:layout_gravity="center"
+            android:text="Date of Birth"
+            android:textSize="16dp"
+            android:textColor="#111111"
+            android:textStyle="bold"
+            >
+        </TextView>
+        <EditText
+            android:id="@+id/editText0"
+            android:layout_width="315dp"
+            android:layout_height="wrap_content"
+            android:ems="10"
+            android:layout_gravity="center"
+            android:inputType="date" />
+
+        <ImageButton
+            android:id="@+id/imageButton1"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:background="@drawable/images"
+            android:cropToPadding="true"
+            android:layout_gravity="center"
+            android:onClick="selectDate"
+            />
+
+        <TextView
+            android:id="@+id/textView3"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="20dp"
+            android:layout_gravity="center"
+            android:textSize="16dp"
+            android:text="Medical History"
+            android:textColor="#111111"
+            android:textStyle="bold"
+            >
+        </TextView>
+        <Spinner
+            android:layout_width="400dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:layout_marginLeft="10dp"
+            android:id="@+id/spinner"
+            />
+    </LinearLayout>
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:layout_marginTop="20dp"
+        >
+        <TextView
+            android:id="@+id/textView4"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="10dp"
+            android:layout_marginRight="20dp"
+            android:layout_gravity="center"
+            android:textSize="16dp"
+            android:text="Parent/Guardian"
+            android:textColor="#111111"
+            android:textStyle="bold"
+            >
+        </TextView>
+        <EditText
+            android:layout_width="340dp"
+            android:layout_height="wrap_content"
+            android:hint="Parent/Guardian"
+            android:id="@+id/editText2"
+            android:layout_gravity="center"/>
+        <TextView
+            android:id="@+id/textView5"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="20dp"
+            android:layout_marginRight="45dp"
+            android:layout_gravity="center"
+            android:text="Mobile No."
+            android:textSize="16dp"
+            android:textColor="#111111"
+            android:textStyle="bold"
+            >
+        </TextView>
+        <EditText
+            android:layout_width="400dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:hint="Mobile No."
+            android:id="@+id/editText3"
+            android:layout_gravity="center"/>
+    </LinearLayout>
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:layout_marginTop="20dp"
+        >
+        <TextView
+            android:id="@+id/textView6"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="10dp"
+            android:layout_marginRight="40dp"
+            android:layout_gravity="center"
+            android:textSize="16dp"
+            android:text="Alternate No."
+            android:textColor="#111111"
+            android:textStyle="bold"
+            >
+        </TextView>
+        <EditText
+            android:layout_width="340dp"
+            android:layout_height="wrap_content"
+            android:hint="Alternate No."
+            android:id="@+id/editText4"
+            android:layout_gravity="center"/>
+        <TextView
+            android:id="@+id/textView7"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="25dp"
+            android:layout_marginRight="65dp"
+            android:layout_gravity="center"
+            android:text="Email Id"
+            android:textSize="16dp"
+            android:textColor="#111111"
+            android:textStyle="bold"
+            >
+        </TextView>
+        <EditText
+            android:layout_width="400dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:hint="Email Id"
+            android:id="@+id/editText5"
+            android:layout_gravity="center"/>
+    </LinearLayout>
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:layout_marginTop="20dp"
+        >
+
+        <TextView
+            android:id="@+id/textView12"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="10dp"
+            android:layout_gravity="center"
+            android:text="Session Per Week"
+            android:textSize="16dp"
+            android:textColor="#111111"
+            android:textStyle="bold"
+            >
+        </TextView>
+        <Spinner
+            android:layout_width="336dp"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="10dp"
+            android:id="@+id/spinner2"
+            />
+        <TextView
+            android:id="@+id/textView11"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="25dp"
+            android:layout_marginRight="5dp"
+            android:layout_gravity="center"
+            android:textSize="16dp"
+            android:text="Payment Status"
+            android:textColor="#111111"
+            android:textStyle="bold"
+            >
+        </TextView>
+        <Spinner
+            android:layout_width="400dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:layout_marginLeft="10dp"
+            android:id="@+id/spinner3"
+            />
+
+
+    </LinearLayout>
+    <RelativeLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:layout_marginTop="20dp"
+        android:layout_gravity="center"
+
+        >
+        <Button
+            android:layout_width="120dp"
+            android:layout_height="60dp"
+            android:text="Submit "
+            android:textColor="#ffffff"
+            android:onClick="signup"
+            android:background="@drawable/button"
+            android:id="@+id/button"
+            android:layout_marginTop="50dp"
+            />
+
+    </RelativeLayout>
+</LinearLayout>
+    </ScrollView>

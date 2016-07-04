@@ -1,0 +1,151 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/back">
+
+    <TextView
+        android:id="@+id/text"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="10dp"
+        android:layout_marginLeft="10dp"
+        android:layout_gravity="center"
+        android:text="Equipment Report"
+        android:textColor="#111111"
+        android:textSize="20dp"
+        android:textStyle="bold"
+        >
+    </TextView>
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:layout_marginTop="40dp"
+        android:weightSum="1">
+        <TextView
+            android:id="@+id/textView1"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="20dp"
+            android:layout_marginRight="70dp"
+            android:layout_gravity="center"
+            android:text="Date"
+            android:textSize="16dp"
+            android:textColor="#111111"
+            android:textStyle="bold"
+            >
+        </TextView>
+        <EditText
+            android:id="@+id/editText0"
+            android:layout_width="320dp"
+            android:layout_height="wrap_content"
+            android:ems="10"
+            android:layout_gravity="center"
+            android:inputType="date" >
+            <requestFocus />
+        </EditText>
+        <ImageButton
+            android:id="@+id/imageButton1"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:background="@drawable/images"
+            android:cropToPadding="true"
+            android:layout_gravity="center"
+            android:onClick="selectDate"
+            />
+        <TextView
+            android:id="@+id/textView2"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="20dp"
+            android:layout_marginRight="20dp"
+            android:layout_gravity="center"
+            android:text="School"
+            android:textSize="16dp"
+            android:textColor="#111111"
+            android:textStyle="bold"
+            >
+        </TextView>
+        <Spinner
+        android:layout_width="380dp"
+        android:layout_height="wrap_content"
+            android:layout_weight="1"
+        android:id="@+id/spinner2"
+        android:layout_marginLeft="10dp"/>
+    </LinearLayout>
+        <LinearLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal"
+            android:layout_marginTop="40dp"
+            android:weightSum="1">
+    <!--    <TextView
+            android:id="@+id/textView3"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="10dp"
+            android:layout_gravity="center"
+            android:text="Programme"
+            android:textColor="#111111"
+            android:textStyle="bold"
+            >
+        </TextView>
+        <Spinner
+        android:layout_width="350dp"
+        android:layout_height="wrap_content"
+            android:layout_weight="1"
+        android:id="@+id/spinner3"
+        android:layout_marginLeft="10dp"
+           />-->
+            <TextView
+                android:id="@+id/textView4"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="20dp"
+                android:layout_marginRight="20dp"
+                android:layout_gravity="center"
+                android:text="Equipment"
+                android:textSize="16dp"
+                android:textColor="#111111"
+                android:textStyle="bold"
+                >  
+            </TextView>
+            <com.example.admin.lyceumsport.MultiSelectionSpinner
+                android:id="@+id/spinner4"
+                android:layout_width="360dp"
+                android:layout_height="40dp"
+                android:layout_weight="1"
+                android:layout_margin="10dp" />
+
+    </LinearLayout>
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:layout_marginTop="30dp">
+        <Button
+            android:layout_width="120dp"
+            android:layout_height="60dp"
+            android:text="Submit "
+            android:textColor="#ffffff"
+            android:onClick="signup"
+            android:background="@drawable/button"
+            android:layout_centerInParent="true"
+            android:layout_marginTop="20dp"
+            android:id="@+id/button"
+            />
+    </RelativeLayout>
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/textView" />
+    </LinearLayout>
+
+
+</LinearLayout>

@@ -1,0 +1,175 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/back"
+    tools:context="com.example.admin.lyceumsport.MainActivity">
+
+    <RelativeLayout
+        android:id="@+id/headerMain"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentTop="true"
+        android:background="#00BCD4">
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentLeft="true"
+            android:layout_margin="5dp"
+            android:padding="10dp"
+            android:text="LYCEUM Sports Club"
+            android:textColor="#ffffff"
+            android:textSize="25sp" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentRight="true"
+            android:layout_margin="5dp"
+            android:padding="10dp"
+            android:textColor="#ffffff"
+            android:textSize="25sp" />
+    </RelativeLayout>
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_below="@+id/headerMain">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="vertical">
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="horizontal">
+
+                <RelativeLayout
+                    android:id="@+id/rel1"
+                    android:layout_width="0dp"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="1">
+
+                    <TextView
+                        android:id="@+id/textview1"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_alignParentTop="true"
+                        android:layout_centerHorizontal="true"
+
+                        android:text="Task Chart"
+
+                        android:textColor="#cc2303"
+                        android:textSize="30dp" />
+
+                    <ImageButton
+                        android:id="@+id/img1"
+                        android:layout_width="175dp"
+                        android:layout_height="175dp"
+                        android:layout_below="@+id/textview1"
+                        android:layout_centerHorizontal="true"
+                        android:background="@drawable/taskchart" />
+
+                </RelativeLayout>
+
+                <RelativeLayout
+                    android:id="@+id/rel2"
+                    android:layout_width="0dp"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="1">
+
+                    <TextView
+                        android:id="@+id/textview2"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_alignParentTop="true"
+                        android:layout_centerHorizontal="true"
+                        android:text="Academic Report"
+
+                        android:textColor="#cc2303"
+                        android:textSize="30dp" />
+
+                    <ImageButton
+                        android:id="@+id/img2"
+                        android:layout_width="175dp"
+                        android:layout_height="175dp"
+                        android:layout_below="@+id/textview2"
+                        android:layout_centerHorizontal="true"
+                        android:background="@drawable/academicreport" />
+
+                </RelativeLayout>
+
+            </LinearLayout>
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="horizontal">
+
+                <RelativeLayout
+                    android:id="@+id/rel3"
+                    android:layout_width="0dp"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="1">
+
+                    <TextView
+                        android:id="@+id/textview4"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_alignParentTop="true"
+                        android:layout_centerHorizontal="true"
+                        android:padding="10dp"
+                        android:text="Improvement Report"
+
+                        android:textColor="#cc2303"
+                        android:textSize="30dp" />
+
+                    <ImageButton
+                        android:id="@+id/img3"
+                        android:layout_width="175dp"
+                        android:layout_height="175dp"
+                        android:layout_below="@+id/textview4"
+                        android:layout_centerHorizontal="true"
+                        android:background="@drawable/improvementreport" />
+
+                </RelativeLayout>
+
+                <RelativeLayout
+                    android:id="@+id/rel4"
+                    android:layout_width="0dp"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="1">
+
+                    <TextView
+                        android:id="@+id/text3"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_alignParentTop="true"
+                        android:layout_centerHorizontal="true"
+                        android:padding="10dp"
+                        android:text="Module"
+                        android:textColor="#cc2303"
+                        android:textSize="30dp" />
+
+                    <ImageButton
+                        android:id="@+id/img4"
+                        android:layout_width="175dp"
+                        android:layout_height="175dp"
+                        android:layout_below="@id/text3"
+                        android:layout_centerHorizontal="true"
+                        android:background="@drawable/module1" />
+
+                </RelativeLayout>
+
+            </LinearLayout>
+        </LinearLayout>
+
+
+    </ScrollView>
+
+
+</RelativeLayout>

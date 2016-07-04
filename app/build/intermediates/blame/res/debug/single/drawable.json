@@ -1,0 +1,426 @@
+[
+    {
+        "merged": "C:\\Users\\pankaj\\Desktop\\Limra\\LyceumSport-60e1167140be14c0e00d2db0a4a6fbfd1df14b9e\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_edit_text_material.xml",
+        "source": "C:\\Users\\pankaj\\Desktop\\Limra\\LyceumSport-60e1167140be14c0e00d2db0a4a6fbfd1df14b9e\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_edit_text_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\pankaj\\Desktop\\Limra\\LyceumSport-60e1167140be14c0e00d2db0a4a6fbfd1df14b9e\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\feedeposite.png",
+        "source": "C:\\Users\\pankaj\\Desktop\\Limra\\LyceumSport-60e1167140be14c0e00d2db0a4a6fbfd1df14b9e\\app\\src\\main\\res\\drawable\\feedeposite.png"
+    },
+    {
+        "merged": "C:\\Users\\pankaj\\Desktop\\Limra\\LyceumSport-60e1167140be14c0e00d2db0a4a6fbfd1df14b9e\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_default_mtrl_shape.xml",
+        "source": "C:\\Users\\pankaj\\Desktop\\Limra\\LyceumSport-60e1167140be14c0e00d2db0a4a6fbfd1df14b9e\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_btn_default_mtrl_shape.xml"
+    },
+    {
+        "merged": "C:\\Users\\pankaj\\Desktop\\Limra\\LyceumSport\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\equipment.png",
+        "source": "C:\\Users\\pankaj\\Desktop\\Limra\\LyceumSport\\app\\src\\main\\res\\drawable\\equipment.png"
+    },
+    {
+        "merged": "C:\\Users\\pankaj\\Desktop\\Limra\\LyceumSport-60e1167140be14c0e00d2db0a4a6fbfd1df14b9e\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\or.png",
+        "source": "C:\\Users\\pankaj\\Desktop\\Limra\\LyceumSport-60e1167140be14c0e00d2db0a4a6fbfd1df14b9e\\app\\src\\main\\res\\drawable\\or.png"
+    },
+    {
+        "merged": "C:\\Users\\pankaj\\Desktop\\Limra\\LyceumSport-60e1167140be14c0e00d2db0a4a6fbfd1df14b9e\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\academicreport.png",
+        "source": "C:\\Users\\pankaj\\Desktop\\Limra\\LyceumSport-60e1167140be14c0e00d2db0a4a6fbfd1df14b9e\\app\\src\\main\\res\\drawable\\academicreport.png"
+    },
+    {
+        "merged": "C:\\Users\\pankaj\\Desktop\\Limra\\LyceumSport-60e1167140be14c0e00d2db0a4a6fbfd1df14b9e\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_colored_material.xml",
+        "source": "C:\\Users\\pankaj\\Desktop\\Limra\\LyceumSport-60e1167140be14c0e00d2db0a4a6fbfd1df14b9e\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_btn_colored_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\pankaj\\Desktop\\Limra\\LyceumSport\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\back.png",
+        "source": "C:\\Users\\pankaj\\Desktop\\Limra\\LyceumSport\\app\\src\\main\\res\\drawable\\back.png"
+    },
+    {
+        "merged": "C:\\Users\\pankaj\\Desktop\\Limra\\LyceumSport\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_tab_indicator_material.xml",
+        "source": "C:\\Users\\pankaj\\Desktop\\Limra\\LyceumSport\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_tab_indicator_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\pankaj\\Desktop\\Limra\\LyceumSport\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\button.xml",
+        "source": "C:\\Users\\pankaj\\Desktop\\Limra\\LyceumSport\\app\\src\\main\\res\\drawable\\button.xml"
+    },
+    {
+        "merged": "C:\\Users\\pankaj\\Desktop\\Limra\\LyceumSport-60e1167140be14c0e00d2db0a4a6fbfd1df14b9e\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_track_material.xml",
+        "source": "C:\\Users\\pankaj\\Desktop\\Limra\\LyceumSport-60e1167140be14c0e00d2db0a4a6fbfd1df14b9e\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_seekbar_track_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\pankaj\\Desktop\\Limra\\LyceumSport\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_item_background_holo_dark.xml",
+        "source": "C:\\Users\\pankaj\\Desktop\\Limra\\LyceumSport\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_item_background_holo_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\pankaj\\Desktop\\Limra\\LyceumSport-60e1167140be14c0e00d2db0a4a6fbfd1df14b9e\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\previous_icon.png",
+        "source": "C:\\Users\\pankaj\\Desktop\\Limra\\LyceumSport-60e1167140be14c0e00d2db0a4a6fbfd1df14b9e\\app\\src\\main\\res\\drawable\\previous_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\pankaj\\Desktop\\Limra\\LyceumSport\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\next_icon.png",
+        "source": "C:\\Users\\pankaj\\Desktop\\Limra\\LyceumSport\\app\\src\\main\\res\\drawable\\next_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\pankaj\\Desktop\\Limra\\LyceumSport-60e1167140be14c0e00d2db0a4a6fbfd1df14b9e\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_tab_indicator_material.xml",
+        "source": "C:\\Users\\pankaj\\Desktop\\Limra\\LyceumSport-60e1167140be14c0e00d2db0a4a6fbfd1df14b9e\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_tab_indicator_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\pankaj\\Desktop\\Limra\\LyceumSport\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\design_snackbar_background.xml",
+        "source": "C:\\Users\\pankaj\\Desktop\\Limra\\LyceumSport\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.2.1\\res\\drawable\\design_snackbar_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\pankaj\\Desktop\\Limra\\LyceumSport-60e1167140be14c0e00d2db0a4a6fbfd1df14b9e\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_background_transition_holo_light.xml",
+        "source": "C:\\Users\\pankaj\\Desktop\\Limra\\LyceumSport-60e1167140be14c0e00d2db0a4a6fbfd1df14b9e\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_list_selector_background_transition_holo_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\pankaj\\Desktop\\Limra\\LyceumSport-60e1167140be14c0e00d2db0a4a6fbfd1df14b9e\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\reminder.png",
+        "source": "C:\\Users\\pankaj\\Desktop\\Limra\\LyceumSport-60e1167140be14c0e00d2db0a4a6fbfd1df14b9e\\app\\src\\main\\res\\drawable\\reminder.png"
+    },
+    {
+        "merged": "C:\\Users\\pankaj\\Desktop\\Limra\\LyceumSport\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_default_mtrl_shape.xml",
+        "source": "C:\\Users\\pankaj\\Desktop\\Limra\\LyceumSport\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_btn_default_mtrl_shape.xml"
+    },
+    {
+        "merged": "C:\\Users\\pankaj\\Desktop\\Limra\\LyceumSport\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\module1.png",
+        "source": "C:\\Users\\pankaj\\Desktop\\Limra\\LyceumSport\\app\\src\\main\\res\\drawable\\module1.png"
+    },
+    {
+        "merged": "C:\\Users\\pankaj\\Desktop\\Limra\\LyceumSport-60e1167140be14c0e00d2db0a4a6fbfd1df14b9e\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_indicator_material.xml",
+        "source": "C:\\Users\\pankaj\\Desktop\\Limra\\LyceumSport-60e1167140be14c0e00d2db0a4a6fbfd1df14b9e\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_ratingbar_indicator_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\pankaj\\Desktop\\Limra\\LyceumSport\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\temp_img.png",
+        "source": "C:\\Users\\pankaj\\Desktop\\Limra\\LyceumSport\\app\\src\\main\\res\\drawable\\temp_img.png"
+    },
+    {
+        "merged": "C:\\Users\\pankaj\\Desktop\\Limra\\LyceumSport\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\design_fab_background.xml",
+        "source": "C:\\Users\\pankaj\\Desktop\\Limra\\LyceumSport\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.2.1\\res\\drawable\\design_fab_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\pankaj\\Desktop\\Limra\\LyceumSport\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\previous_icon.png",
+        "source": "C:\\Users\\pankaj\\Desktop\\Limra\\LyceumSport\\app\\src\\main\\res\\drawable\\previous_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\pankaj\\Desktop\\Limra\\LyceumSport-60e1167140be14c0e00d2db0a4a6fbfd1df14b9e\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\list_selector.xml",
+        "source": "C:\\Users\\pankaj\\Desktop\\Limra\\LyceumSport-60e1167140be14c0e00d2db0a4a6fbfd1df14b9e\\app\\src\\main\\res\\drawable\\list_selector.xml"
+    },
+    {
+        "merged": "C:\\Users\\pankaj\\Desktop\\Limra\\LyceumSport\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_borderless_material.xml",
+        "source": "C:\\Users\\pankaj\\Desktop\\Limra\\LyceumSport\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_btn_borderless_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\pankaj\\Desktop\\Limra\\LyceumSport-60e1167140be14c0e00d2db0a4a6fbfd1df14b9e\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\module1.png",
+        "source": "C:\\Users\\pankaj\\Desktop\\Limra\\LyceumSport-60e1167140be14c0e00d2db0a4a6fbfd1df14b9e\\app\\src\\main\\res\\drawable\\module1.png"
+    },
+    {
+        "merged": "C:\\Users\\pankaj\\Desktop\\Limra\\LyceumSport-60e1167140be14c0e00d2db0a4a6fbfd1df14b9e\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_holo_light.xml",
+        "source": "C:\\Users\\pankaj\\Desktop\\Limra\\LyceumSport-60e1167140be14c0e00d2db0a4a6fbfd1df14b9e\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_list_selector_holo_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\pankaj\\Desktop\\Limra\\LyceumSport-60e1167140be14c0e00d2db0a4a6fbfd1df14b9e\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_cab_background_internal_bg.xml",
+        "source": "C:\\Users\\pankaj\\Desktop\\Limra\\LyceumSport-60e1167140be14c0e00d2db0a4a6fbfd1df14b9e\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_cab_background_internal_bg.xml"
+    },
+    {
+        "merged": "C:\\Users\\pankaj\\Desktop\\Limra\\LyceumSport\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\rounded_border_edittext.xml",
+        "source": "C:\\Users\\pankaj\\Desktop\\Limra\\LyceumSport\\app\\src\\main\\res\\drawable\\rounded_border_edittext.xml"
+    },
+    {
+        "merged": "C:\\Users\\pankaj\\Desktop\\Limra\\LyceumSport-60e1167140be14c0e00d2db0a4a6fbfd1df14b9e\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_check_material.xml",
+        "source": "C:\\Users\\pankaj\\Desktop\\Limra\\LyceumSport-60e1167140be14c0e00d2db0a4a6fbfd1df14b9e\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_btn_check_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\pankaj\\Desktop\\Limra\\LyceumSport\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_switch_thumb_material.xml",
+        "source": "C:\\Users\\pankaj\\Desktop\\Limra\\LyceumSport\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_switch_thumb_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\pankaj\\Desktop\\Limra\\LyceumSport-60e1167140be14c0e00d2db0a4a6fbfd1df14b9e\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\student.png",
+        "source": "C:\\Users\\pankaj\\Desktop\\Limra\\LyceumSport-60e1167140be14c0e00d2db0a4a6fbfd1df14b9e\\app\\src\\main\\res\\drawable\\student.png"
+    },
+    {
+        "merged": "C:\\Users\\pankaj\\Desktop\\Limra\\LyceumSport\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\login.png",
+        "source": "C:\\Users\\pankaj\\Desktop\\Limra\\LyceumSport\\app\\src\\main\\res\\drawable\\login.png"
+    },
+    {
+        "merged": "C:\\Users\\pankaj\\Desktop\\Limra\\LyceumSport-60e1167140be14c0e00d2db0a4a6fbfd1df14b9e\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\images.png",
+        "source": "C:\\Users\\pankaj\\Desktop\\Limra\\LyceumSport-60e1167140be14c0e00d2db0a4a6fbfd1df14b9e\\app\\src\\main\\res\\drawable\\images.png"
+    },
+    {
+        "merged": "C:\\Users\\pankaj\\Desktop\\Limra\\LyceumSport\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_dialog_material_background_dark.xml",
+        "source": "C:\\Users\\pankaj\\Desktop\\Limra\\LyceumSport\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_dialog_material_background_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\pankaj\\Desktop\\Limra\\LyceumSport\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\progress.png",
+        "source": "C:\\Users\\pankaj\\Desktop\\Limra\\LyceumSport\\app\\src\\main\\res\\drawable\\progress.png"
+    },
+    {
+        "merged": "C:\\Users\\pankaj\\Desktop\\Limra\\LyceumSport-60e1167140be14c0e00d2db0a4a6fbfd1df14b9e\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_dialog_material_background_dark.xml",
+        "source": "C:\\Users\\pankaj\\Desktop\\Limra\\LyceumSport-60e1167140be14c0e00d2db0a4a6fbfd1df14b9e\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_dialog_material_background_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\pankaj\\Desktop\\Limra\\LyceumSport\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_cab_background_top_material.xml",
+        "source": "C:\\Users\\pankaj\\Desktop\\Limra\\LyceumSport\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_cab_background_top_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\pankaj\\Desktop\\Limra\\LyceumSport\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\images.png",
+        "source": "C:\\Users\\pankaj\\Desktop\\Limra\\LyceumSport\\app\\src\\main\\res\\drawable\\images.png"
+    },
+    {
+        "merged": "C:\\Users\\pankaj\\Desktop\\Limra\\LyceumSport-60e1167140be14c0e00d2db0a4a6fbfd1df14b9e\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\gradient_bg.xml",
+        "source": "C:\\Users\\pankaj\\Desktop\\Limra\\LyceumSport-60e1167140be14c0e00d2db0a4a6fbfd1df14b9e\\app\\src\\main\\res\\drawable\\gradient_bg.xml"
+    },
+    {
+        "merged": "C:\\Users\\pankaj\\Desktop\\Limra\\LyceumSport\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\gradient_bg.xml",
+        "source": "C:\\Users\\pankaj\\Desktop\\Limra\\LyceumSport\\app\\src\\main\\res\\drawable\\gradient_bg.xml"
+    },
+    {
+        "merged": "C:\\Users\\pankaj\\Desktop\\Limra\\LyceumSport\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\studentatten.png",
+        "source": "C:\\Users\\pankaj\\Desktop\\Limra\\LyceumSport\\app\\src\\main\\res\\drawable\\studentatten.png"
+    },
+    {
+        "merged": "C:\\Users\\pankaj\\Desktop\\Limra\\LyceumSport\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_text_cursor_material.xml",
+        "source": "C:\\Users\\pankaj\\Desktop\\Limra\\LyceumSport\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_text_cursor_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\pankaj\\Desktop\\Limra\\LyceumSport\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\academicreport.png",
+        "source": "C:\\Users\\pankaj\\Desktop\\Limra\\LyceumSport\\app\\src\\main\\res\\drawable\\academicreport.png"
+    },
+    {
+        "merged": "C:\\Users\\pankaj\\Desktop\\Limra\\LyceumSport\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_indicator_material.xml",
+        "source": "C:\\Users\\pankaj\\Desktop\\Limra\\LyceumSport\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_ratingbar_indicator_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\pankaj\\Desktop\\Limra\\LyceumSport-60e1167140be14c0e00d2db0a4a6fbfd1df14b9e\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_holo_dark.xml",
+        "source": "C:\\Users\\pankaj\\Desktop\\Limra\\LyceumSport-60e1167140be14c0e00d2db0a4a6fbfd1df14b9e\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_list_selector_holo_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\pankaj\\Desktop\\Limra\\LyceumSport-60e1167140be14c0e00d2db0a4a6fbfd1df14b9e\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\design_fab_background.xml",
+        "source": "C:\\Users\\pankaj\\Desktop\\Limra\\LyceumSport-60e1167140be14c0e00d2db0a4a6fbfd1df14b9e\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.2.1\\res\\drawable\\design_fab_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\pankaj\\Desktop\\Limra\\LyceumSport-60e1167140be14c0e00d2db0a4a6fbfd1df14b9e\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\progress.png",
+        "source": "C:\\Users\\pankaj\\Desktop\\Limra\\LyceumSport-60e1167140be14c0e00d2db0a4a6fbfd1df14b9e\\app\\src\\main\\res\\drawable\\progress.png"
+    },
+    {
+        "merged": "C:\\Users\\pankaj\\Desktop\\Limra\\LyceumSport\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_textfield_search_material.xml",
+        "source": "C:\\Users\\pankaj\\Desktop\\Limra\\LyceumSport\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_textfield_search_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\pankaj\\Desktop\\Limra\\LyceumSport\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_item_background_holo_light.xml",
+        "source": "C:\\Users\\pankaj\\Desktop\\Limra\\LyceumSport\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_item_background_holo_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\pankaj\\Desktop\\Limra\\LyceumSport-60e1167140be14c0e00d2db0a4a6fbfd1df14b9e\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\logomain.png",
+        "source": "C:\\Users\\pankaj\\Desktop\\Limra\\LyceumSport-60e1167140be14c0e00d2db0a4a6fbfd1df14b9e\\app\\src\\main\\res\\drawable\\logomain.png"
+    },
+    {
+        "merged": "C:\\Users\\pankaj\\Desktop\\Limra\\LyceumSport\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\improvementreport.png",
+        "source": "C:\\Users\\pankaj\\Desktop\\Limra\\LyceumSport\\app\\src\\main\\res\\drawable\\improvementreport.png"
+    },
+    {
+        "merged": "C:\\Users\\pankaj\\Desktop\\Limra\\LyceumSport\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\or.png",
+        "source": "C:\\Users\\pankaj\\Desktop\\Limra\\LyceumSport\\app\\src\\main\\res\\drawable\\or.png"
+    },
+    {
+        "merged": "C:\\Users\\pankaj\\Desktop\\Limra\\LyceumSport-60e1167140be14c0e00d2db0a4a6fbfd1df14b9e\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_textfield_search_material.xml",
+        "source": "C:\\Users\\pankaj\\Desktop\\Limra\\LyceumSport-60e1167140be14c0e00d2db0a4a6fbfd1df14b9e\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_textfield_search_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\pankaj\\Desktop\\Limra\\LyceumSport-60e1167140be14c0e00d2db0a4a6fbfd1df14b9e\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\studentatten.png",
+        "source": "C:\\Users\\pankaj\\Desktop\\Limra\\LyceumSport-60e1167140be14c0e00d2db0a4a6fbfd1df14b9e\\app\\src\\main\\res\\drawable\\studentatten.png"
+    },
+    {
+        "merged": "C:\\Users\\pankaj\\Desktop\\Limra\\LyceumSport\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_dialog_material_background_light.xml",
+        "source": "C:\\Users\\pankaj\\Desktop\\Limra\\LyceumSport\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_dialog_material_background_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\pankaj\\Desktop\\Limra\\LyceumSport-60e1167140be14c0e00d2db0a4a6fbfd1df14b9e\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\splash.png",
+        "source": "C:\\Users\\pankaj\\Desktop\\Limra\\LyceumSport-60e1167140be14c0e00d2db0a4a6fbfd1df14b9e\\app\\src\\main\\res\\drawable\\splash.png"
+    },
+    {
+        "merged": "C:\\Users\\pankaj\\Desktop\\Limra\\LyceumSport\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_edit_text_material.xml",
+        "source": "C:\\Users\\pankaj\\Desktop\\Limra\\LyceumSport\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_edit_text_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\pankaj\\Desktop\\Limra\\LyceumSport\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\rounded_border_edittext1.xml",
+        "source": "C:\\Users\\pankaj\\Desktop\\Limra\\LyceumSport\\app\\src\\main\\res\\drawable\\rounded_border_edittext1.xml"
+    },
+    {
+        "merged": "C:\\Users\\pankaj\\Desktop\\Limra\\LyceumSport-60e1167140be14c0e00d2db0a4a6fbfd1df14b9e\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_switch_thumb_material.xml",
+        "source": "C:\\Users\\pankaj\\Desktop\\Limra\\LyceumSport-60e1167140be14c0e00d2db0a4a6fbfd1df14b9e\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_switch_thumb_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\pankaj\\Desktop\\Limra\\LyceumSport\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_holo_dark.xml",
+        "source": "C:\\Users\\pankaj\\Desktop\\Limra\\LyceumSport\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_list_selector_holo_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\pankaj\\Desktop\\Limra\\LyceumSport-60e1167140be14c0e00d2db0a4a6fbfd1df14b9e\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\login.png",
+        "source": "C:\\Users\\pankaj\\Desktop\\Limra\\LyceumSport-60e1167140be14c0e00d2db0a4a6fbfd1df14b9e\\app\\src\\main\\res\\drawable\\login.png"
+    },
+    {
+        "merged": "C:\\Users\\pankaj\\Desktop\\Limra\\LyceumSport\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_background_transition_holo_light.xml",
+        "source": "C:\\Users\\pankaj\\Desktop\\Limra\\LyceumSport\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_list_selector_background_transition_holo_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\pankaj\\Desktop\\Limra\\LyceumSport\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\student.png",
+        "source": "C:\\Users\\pankaj\\Desktop\\Limra\\LyceumSport\\app\\src\\main\\res\\drawable\\student.png"
+    },
+    {
+        "merged": "C:\\Users\\pankaj\\Desktop\\Limra\\LyceumSport\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\feedeposite.png",
+        "source": "C:\\Users\\pankaj\\Desktop\\Limra\\LyceumSport\\app\\src\\main\\res\\drawable\\feedeposite.png"
+    },
+    {
+        "merged": "C:\\Users\\pankaj\\Desktop\\Limra\\LyceumSport-60e1167140be14c0e00d2db0a4a6fbfd1df14b9e\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_spinner_textfield_background_material.xml",
+        "source": "C:\\Users\\pankaj\\Desktop\\Limra\\LyceumSport-60e1167140be14c0e00d2db0a4a6fbfd1df14b9e\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_spinner_textfield_background_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\pankaj\\Desktop\\Limra\\LyceumSport\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_colored_material.xml",
+        "source": "C:\\Users\\pankaj\\Desktop\\Limra\\LyceumSport\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_btn_colored_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\pankaj\\Desktop\\Limra\\LyceumSport\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\gradient_bg_hover.xml",
+        "source": "C:\\Users\\pankaj\\Desktop\\Limra\\LyceumSport\\app\\src\\main\\res\\drawable\\gradient_bg_hover.xml"
+    },
+    {
+        "merged": "C:\\Users\\pankaj\\Desktop\\Limra\\LyceumSport-60e1167140be14c0e00d2db0a4a6fbfd1df14b9e\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_small_material.xml",
+        "source": "C:\\Users\\pankaj\\Desktop\\Limra\\LyceumSport-60e1167140be14c0e00d2db0a4a6fbfd1df14b9e\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_ratingbar_small_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\pankaj\\Desktop\\Limra\\LyceumSport-60e1167140be14c0e00d2db0a4a6fbfd1df14b9e\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\next_icon.png",
+        "source": "C:\\Users\\pankaj\\Desktop\\Limra\\LyceumSport-60e1167140be14c0e00d2db0a4a6fbfd1df14b9e\\app\\src\\main\\res\\drawable\\next_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\pankaj\\Desktop\\Limra\\LyceumSport-60e1167140be14c0e00d2db0a4a6fbfd1df14b9e\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\improvementreport.png",
+        "source": "C:\\Users\\pankaj\\Desktop\\Limra\\LyceumSport-60e1167140be14c0e00d2db0a4a6fbfd1df14b9e\\app\\src\\main\\res\\drawable\\improvementreport.png"
+    },
+    {
+        "merged": "C:\\Users\\pankaj\\Desktop\\Limra\\LyceumSport\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_radio_material.xml",
+        "source": "C:\\Users\\pankaj\\Desktop\\Limra\\LyceumSport\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_btn_radio_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\pankaj\\Desktop\\Limra\\LyceumSport\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\list_selector.xml",
+        "source": "C:\\Users\\pankaj\\Desktop\\Limra\\LyceumSport\\app\\src\\main\\res\\drawable\\list_selector.xml"
+    },
+    {
+        "merged": "C:\\Users\\pankaj\\Desktop\\Limra\\LyceumSport-60e1167140be14c0e00d2db0a4a6fbfd1df14b9e\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\design_snackbar_background.xml",
+        "source": "C:\\Users\\pankaj\\Desktop\\Limra\\LyceumSport-60e1167140be14c0e00d2db0a4a6fbfd1df14b9e\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.2.1\\res\\drawable\\design_snackbar_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\pankaj\\Desktop\\Limra\\LyceumSport-60e1167140be14c0e00d2db0a4a6fbfd1df14b9e\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_full_material.xml",
+        "source": "C:\\Users\\pankaj\\Desktop\\Limra\\LyceumSport-60e1167140be14c0e00d2db0a4a6fbfd1df14b9e\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_ratingbar_full_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\pankaj\\Desktop\\Limra\\LyceumSport-60e1167140be14c0e00d2db0a4a6fbfd1df14b9e\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_borderless_material.xml",
+        "source": "C:\\Users\\pankaj\\Desktop\\Limra\\LyceumSport-60e1167140be14c0e00d2db0a4a6fbfd1df14b9e\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_btn_borderless_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\pankaj\\Desktop\\Limra\\LyceumSport\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_small_material.xml",
+        "source": "C:\\Users\\pankaj\\Desktop\\Limra\\LyceumSport\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_ratingbar_small_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\pankaj\\Desktop\\Limra\\LyceumSport\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_check_material.xml",
+        "source": "C:\\Users\\pankaj\\Desktop\\Limra\\LyceumSport\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_btn_check_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\pankaj\\Desktop\\Limra\\LyceumSport\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\taskchart.png",
+        "source": "C:\\Users\\pankaj\\Desktop\\Limra\\LyceumSport\\app\\src\\main\\res\\drawable\\taskchart.png"
+    },
+    {
+        "merged": "C:\\Users\\pankaj\\Desktop\\Limra\\LyceumSport-60e1167140be14c0e00d2db0a4a6fbfd1df14b9e\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_background_transition_holo_dark.xml",
+        "source": "C:\\Users\\pankaj\\Desktop\\Limra\\LyceumSport-60e1167140be14c0e00d2db0a4a6fbfd1df14b9e\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_list_selector_background_transition_holo_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\pankaj\\Desktop\\Limra\\LyceumSport-60e1167140be14c0e00d2db0a4a6fbfd1df14b9e\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\taskchart.png",
+        "source": "C:\\Users\\pankaj\\Desktop\\Limra\\LyceumSport-60e1167140be14c0e00d2db0a4a6fbfd1df14b9e\\app\\src\\main\\res\\drawable\\taskchart.png"
+    },
+    {
+        "merged": "C:\\Users\\pankaj\\Desktop\\Limra\\LyceumSport\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\splash.png",
+        "source": "C:\\Users\\pankaj\\Desktop\\Limra\\LyceumSport\\app\\src\\main\\res\\drawable\\splash.png"
+    },
+    {
+        "merged": "C:\\Users\\pankaj\\Desktop\\Limra\\LyceumSport-60e1167140be14c0e00d2db0a4a6fbfd1df14b9e\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_radio_material.xml",
+        "source": "C:\\Users\\pankaj\\Desktop\\Limra\\LyceumSport-60e1167140be14c0e00d2db0a4a6fbfd1df14b9e\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_btn_radio_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\pankaj\\Desktop\\Limra\\LyceumSport\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\logomain.png",
+        "source": "C:\\Users\\pankaj\\Desktop\\Limra\\LyceumSport\\app\\src\\main\\res\\drawable\\logomain.png"
+    },
+    {
+        "merged": "C:\\Users\\pankaj\\Desktop\\Limra\\LyceumSport\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_spinner_textfield_background_material.xml",
+        "source": "C:\\Users\\pankaj\\Desktop\\Limra\\LyceumSport\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_spinner_textfield_background_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\pankaj\\Desktop\\Limra\\LyceumSport-60e1167140be14c0e00d2db0a4a6fbfd1df14b9e\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\temp_img.png",
+        "source": "C:\\Users\\pankaj\\Desktop\\Limra\\LyceumSport-60e1167140be14c0e00d2db0a4a6fbfd1df14b9e\\app\\src\\main\\res\\drawable\\temp_img.png"
+    },
+    {
+        "merged": "C:\\Users\\pankaj\\Desktop\\Limra\\LyceumSport\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_cab_background_internal_bg.xml",
+        "source": "C:\\Users\\pankaj\\Desktop\\Limra\\LyceumSport\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_cab_background_internal_bg.xml"
+    },
+    {
+        "merged": "C:\\Users\\pankaj\\Desktop\\Limra\\LyceumSport-60e1167140be14c0e00d2db0a4a6fbfd1df14b9e\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_text_cursor_material.xml",
+        "source": "C:\\Users\\pankaj\\Desktop\\Limra\\LyceumSport-60e1167140be14c0e00d2db0a4a6fbfd1df14b9e\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_text_cursor_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\pankaj\\Desktop\\Limra\\LyceumSport-60e1167140be14c0e00d2db0a4a6fbfd1df14b9e\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_item_background_holo_dark.xml",
+        "source": "C:\\Users\\pankaj\\Desktop\\Limra\\LyceumSport-60e1167140be14c0e00d2db0a4a6fbfd1df14b9e\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_item_background_holo_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\pankaj\\Desktop\\Limra\\LyceumSport-60e1167140be14c0e00d2db0a4a6fbfd1df14b9e\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\rounded_border_edittext1.xml",
+        "source": "C:\\Users\\pankaj\\Desktop\\Limra\\LyceumSport-60e1167140be14c0e00d2db0a4a6fbfd1df14b9e\\app\\src\\main\\res\\drawable\\rounded_border_edittext1.xml"
+    },
+    {
+        "merged": "C:\\Users\\pankaj\\Desktop\\Limra\\LyceumSport\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_thumb_material.xml",
+        "source": "C:\\Users\\pankaj\\Desktop\\Limra\\LyceumSport\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_seekbar_thumb_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\pankaj\\Desktop\\Limra\\LyceumSport-60e1167140be14c0e00d2db0a4a6fbfd1df14b9e\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\button.xml",
+        "source": "C:\\Users\\pankaj\\Desktop\\Limra\\LyceumSport-60e1167140be14c0e00d2db0a4a6fbfd1df14b9e\\app\\src\\main\\res\\drawable\\button.xml"
+    },
+    {
+        "merged": "C:\\Users\\pankaj\\Desktop\\Limra\\LyceumSport-60e1167140be14c0e00d2db0a4a6fbfd1df14b9e\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_cab_background_top_material.xml",
+        "source": "C:\\Users\\pankaj\\Desktop\\Limra\\LyceumSport-60e1167140be14c0e00d2db0a4a6fbfd1df14b9e\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_cab_background_top_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\pankaj\\Desktop\\Limra\\LyceumSport\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\reminder.png",
+        "source": "C:\\Users\\pankaj\\Desktop\\Limra\\LyceumSport\\app\\src\\main\\res\\drawable\\reminder.png"
+    },
+    {
+        "merged": "C:\\Users\\pankaj\\Desktop\\Limra\\LyceumSport\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_track_material.xml",
+        "source": "C:\\Users\\pankaj\\Desktop\\Limra\\LyceumSport\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_seekbar_track_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\pankaj\\Desktop\\Limra\\LyceumSport-60e1167140be14c0e00d2db0a4a6fbfd1df14b9e\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\back.png",
+        "source": "C:\\Users\\pankaj\\Desktop\\Limra\\LyceumSport-60e1167140be14c0e00d2db0a4a6fbfd1df14b9e\\app\\src\\main\\res\\drawable\\back.png"
+    },
+    {
+        "merged": "C:\\Users\\pankaj\\Desktop\\Limra\\LyceumSport\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_full_material.xml",
+        "source": "C:\\Users\\pankaj\\Desktop\\Limra\\LyceumSport\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_ratingbar_full_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\pankaj\\Desktop\\Limra\\LyceumSport-60e1167140be14c0e00d2db0a4a6fbfd1df14b9e\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_thumb_material.xml",
+        "source": "C:\\Users\\pankaj\\Desktop\\Limra\\LyceumSport-60e1167140be14c0e00d2db0a4a6fbfd1df14b9e\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_seekbar_thumb_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\pankaj\\Desktop\\Limra\\LyceumSport-60e1167140be14c0e00d2db0a4a6fbfd1df14b9e\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\equipment.png",
+        "source": "C:\\Users\\pankaj\\Desktop\\Limra\\LyceumSport-60e1167140be14c0e00d2db0a4a6fbfd1df14b9e\\app\\src\\main\\res\\drawable\\equipment.png"
+    },
+    {
+        "merged": "C:\\Users\\pankaj\\Desktop\\Limra\\LyceumSport\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_background_transition_holo_dark.xml",
+        "source": "C:\\Users\\pankaj\\Desktop\\Limra\\LyceumSport\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_list_selector_background_transition_holo_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\pankaj\\Desktop\\Limra\\LyceumSport-60e1167140be14c0e00d2db0a4a6fbfd1df14b9e\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_dialog_material_background_light.xml",
+        "source": "C:\\Users\\pankaj\\Desktop\\Limra\\LyceumSport-60e1167140be14c0e00d2db0a4a6fbfd1df14b9e\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_dialog_material_background_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\pankaj\\Desktop\\Limra\\LyceumSport-60e1167140be14c0e00d2db0a4a6fbfd1df14b9e\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\rounded_border_edittext.xml",
+        "source": "C:\\Users\\pankaj\\Desktop\\Limra\\LyceumSport-60e1167140be14c0e00d2db0a4a6fbfd1df14b9e\\app\\src\\main\\res\\drawable\\rounded_border_edittext.xml"
+    },
+    {
+        "merged": "C:\\Users\\pankaj\\Desktop\\Limra\\LyceumSport-60e1167140be14c0e00d2db0a4a6fbfd1df14b9e\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_item_background_holo_light.xml",
+        "source": "C:\\Users\\pankaj\\Desktop\\Limra\\LyceumSport-60e1167140be14c0e00d2db0a4a6fbfd1df14b9e\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_item_background_holo_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\pankaj\\Desktop\\Limra\\LyceumSport-60e1167140be14c0e00d2db0a4a6fbfd1df14b9e\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\gradient_bg_hover.xml",
+        "source": "C:\\Users\\pankaj\\Desktop\\Limra\\LyceumSport-60e1167140be14c0e00d2db0a4a6fbfd1df14b9e\\app\\src\\main\\res\\drawable\\gradient_bg_hover.xml"
+    },
+    {
+        "merged": "C:\\Users\\pankaj\\Desktop\\Limra\\LyceumSport\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_holo_light.xml",
+        "source": "C:\\Users\\pankaj\\Desktop\\Limra\\LyceumSport\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_list_selector_holo_light.xml"
+    }
+]
